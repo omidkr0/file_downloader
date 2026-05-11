@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [Vivaldi.7.9.3970.64.x64](./Vivaldi.7.9.3970.64.x64)
+- [win64](./win64)
 
 ---
 
